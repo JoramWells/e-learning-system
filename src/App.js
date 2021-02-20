@@ -11,6 +11,7 @@ import Main from './Components/Main'
 import Section from './Components/Section'
 import NavBar from './Components/NavBar'
 import Courses from './Components/Courses'
+import NavHeader from "./Components/NavHeader";
 
 
 class App extends React.Component {
@@ -18,6 +19,7 @@ class App extends React.Component {
     return (
       <>
       <NavBar />
+      <NavHeader />
 
       </>
 
