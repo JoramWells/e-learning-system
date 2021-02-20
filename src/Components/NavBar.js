@@ -8,7 +8,8 @@ import NavDropdown from 'react-bootstrap/NavDropdown'
 
 export default function NavBar() {
   return(
-<Navbar bg="light" expand="lg">
+    <>
+    <Navbar bg="light" expand="lg" position="top">
   <Navbar.Brand href="#home">GORESEARCH</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
@@ -26,6 +27,8 @@ export default function NavBar() {
 
   </Navbar.Collapse>
 </Navbar>
+    </>
+
   );
 
  
