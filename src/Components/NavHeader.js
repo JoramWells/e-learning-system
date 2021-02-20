@@ -49,9 +49,9 @@ export default function NavHeader() {
                 <div class="card-block px-2">
                   <h4 class="card-title">Job</h4>
                   <p class="card-text">Job description</p>
-                  <a href="#" class="btn btn-success">
+                  <btn class="btn btn-success">
                     APPLY NOW
-                  </a>
+                  </btn>
                 </div>
               </div>
 
@@ -68,9 +68,9 @@ export default function NavHeader() {
                 <div class="card-block px-2">
                   <h4 class="card-title">Courses</h4>
                   <p class="card-text">Available courses</p>
-                  <a href="#" class="btn btn-primary">
+                  <btn class="btn btn-primary">
                    LEARN MORE
-                  </a>
+                  </btn>
                 </div>
               </div>
               <div class="col-auto border-0">
@@ -93,9 +93,9 @@ export default function NavHeader() {
                 <div class="card-block px-2">
                   <h4 class="card-title">Team</h4>
                   <p class="card-text">Our team</p>
-                  <a href="#" class="btn btn-primary">
+                  <btn class="btn btn-primary">
                     LEARN MORE
-                  </a>
+                  </btn>
                 </div>
               </div>
 
