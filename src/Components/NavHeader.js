@@ -3,7 +3,6 @@ import goresearch from "../GORESEARCH.png";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
-import Button from "react-bootstrap/Button";
 import team from "./team.svg";
 
 export default function NavHeader() {
