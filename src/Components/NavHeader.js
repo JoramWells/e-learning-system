@@ -27,6 +27,7 @@ export default function NavHeader() {
             <Col>
               <img
                 src={goresearch}
+                alt="f"
                 style={{ width: "300px", margin: "auto", display: "block" }}
               />
             </Col>
@@ -42,7 +43,7 @@ export default function NavHeader() {
               <div class="card ">
             <div class="row no-gutters">
             <div class="col-auto border-0">
-                <img src={team} class="img-fluid" style={{width:"200px"}} alt="" />
+                <img src={team} alt="f" class="img-fluid" style={{width:"200px"}} alt="" />
               </div>
               <div class="col">
                 <div class="card-block px-2">
@@ -73,7 +74,7 @@ export default function NavHeader() {
                 </div>
               </div>
               <div class="col-auto border-0">
-                <img src={team} class="img-fluid" alt=""  style={{width:"200px"}} />
+                <img src={team} alt="F" class="img-fluid" alt=""  style={{width:"200px"}} />
               </div>
             </div>
           </div>
@@ -86,7 +87,7 @@ export default function NavHeader() {
               <div class="card ">
             <div class="row no-gutters">
             <div class="col-auto border-0">
-                <img src={team} class="img-fluid" style={{width:"200px"}} alt="" />
+                <img src={team} alt="f" class="img-fluid" style={{width:"200px"}} alt="" />
               </div>
               <div class="col">
                 <div class="card-block px-2">
